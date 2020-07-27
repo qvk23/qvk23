@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Vũ Kiên Quyết
-
+![GitHub followers](https://img.shields.io/github/followers/sfnvmsf?style=social)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-orange)](https://img.shields.io/badge/-Kotlin-orange)
 [![ReactiveX](https://img.shields.io/badge/-ReactiveX-red)](https://img.shields.io/badge/-ReactiveX-red)
 [![Android](https://img.shields.io/badge/-Android-green)](https://img.shields.io/badge/-Android-green)
